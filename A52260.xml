@@ -2125,17 +2125,20 @@ either before <hi>fa</hi> or <hi>sol,</hi> and they retain their name still, but
                <p>In Augmentation, the <hi>Large</hi> is Eight <hi>Se<g ref="char:EOLhyphen"/>mi-breves,</hi> the <hi>Long</hi> four, the <hi>Breve</hi> two, the <hi>Semi-breve</hi> is one <hi>Time</hi> or <hi>Note.</hi>
                </p>
                <p>In Diminution, the latter four do decrease in this proportion; two <hi>Minums</hi> make a <hi>Semi-breve,</hi> two <hi>Crotchets</hi> make a <hi>Minum,</hi> two <hi>Quavers</hi> make a <hi>Crotchet,</hi> and two <hi>Se<g ref="char:EOLhyphen"/>mi-quavers</hi> make a <hi>Quaver.</hi> As in the Ta<g ref="char:EOLhyphen"/>ble following may be seen.</p>
-               <figure>
-                  <p>
-                     <list>
-                        <head>Notes of Augmentation.</head>
-                        <item>𝆶 — A Large.</item>
-                        <item>𝆷 𝆷 — A Long.</item>
-                        <item>𝆸 𝆸 𝆸 𝆸 — A Breve.</item>
-                        <item>𝆹 𝆹 𝆹 𝆹 𝆹 𝆹 𝆹 𝆹 — A Semi-breve.</item>
-                     </list>
-                  </p>
-               </figure>
+               <p>
+                  <pb n="102" facs="tcp:64961:58"/>
+                  <figure>
+                     <p>
+                        <list>
+                           <head>Notes of Augmentation.</head>
+                           <item>𝆶 — A Large.</item>
+                           <item>𝆷 𝆷 — A Long.</item>
+                           <item>𝆸 𝆸 𝆸 𝆸 — A Breve.</item>
+                           <item>𝆹 𝆹 𝆹 𝆹 𝆹 𝆹 𝆹 𝆹 — A Semi-breve.</item>
+                        </list>
+                     </p>
+                  </figure>
+               </p>
                <figure>
                   <p>
                      <list>
@@ -4400,7 +4403,9 @@ and these in a contingent matter, may be both False, but cannot be both together
                <p n="31">31. <hi>Subcontrary Opposition,</hi> is the repugnan<g ref="char:EOLhyphen"/>cy of two particular Propositions in <hi>quality</hi>; as, <hi>some man doth run, some man doth not run</hi>; and these in a contingent matter may be both true, but cannot be both together False.</p>
                <p n="32">32. <hi>Sabalternate Opposition,</hi> is the repug<g ref="char:EOLhyphen"/>nancy of two Affirmative, or two Negative Propositions in their <hi>quantity</hi>; as, <hi>every man doth run, some man doth run.</hi>
                </p>
-               <figure/>
+               <p n="33">33. <hi>Contradictory Opposition,</hi> is the repug<g ref="char:EOLhyphen"/>nancy of two Propositions, both in quality and in <hi>quantity,</hi> so that if one of them be Affirmative, the other shall be Negative; if one be Universal, the other shall be particu<g ref="char:EOLhyphen"/>lar; as, <hi>Every man is Learned, some man is not learned</hi>: All which may be easily appre<g ref="char:EOLhyphen"/>hended by the following Scheme.
+<figure/>
+               </p>
                <p n="34">
                   <pb n="183" facs="tcp:64961:98"/>34. <hi>Aequipollency,</hi> is the equivalency of two Propositions, in <hi>sense</hi> and <hi>signification,</hi> though they differ in Words, by virtue of this Word of Negation (<hi>not</hi>) being set be<g ref="char:EOLhyphen"/>fore the Sign and Subject, after the Sign and Subject, or both before and after, in which there is the same <hi>Subject,</hi> and the same Pre<g ref="char:EOLhyphen"/>dicate; as, <hi>some man is Learned; not every man is Learned:</hi> The several varieties where<g ref="char:EOLhyphen"/>of are fully expressed in these Distichs.</p>
                <q>
@@ -4535,24 +4540,26 @@ in the question, but is united once to the <hi>Major Extream,</hi> and once to t
                <div type="example">
                   <pb n="192" facs="tcp:64961:103"/>
                   <head>Example.</head>
-                  <figure>
-                     <head>Middle Term.</head>
-                     <p>
-                        <hi>Living Creature.</hi>
-                     </p>
-                     <p>
-                        <hi>Minor Extream.</hi>
-                     </p>
-                     <p>
-                        <hi>Man.</hi>
-                     </p>
-                     <p>
-                        <hi>Major Extream.</hi>
-                     </p>
-                     <p>
-                        <hi>Stone.</hi>
-                     </p>
-                  </figure>
+                  <p>Let this be the Proposition, <hi>No Man is a stone</hi>: This Proposition being an Universal Negative, the Syllogism may be framed in <hi>Celarent, Celantes, Cesare</hi> or <hi>Camestres</hi>; if in <hi>Celarent, man</hi> is the <hi>Minor Extream,</hi> and <hi>Stone</hi> the <hi>Major</hi>; and to find out the middle Term, I consider of some Reason or Argu<g ref="char:EOLhyphen"/>ment by which to prove the Question; as, <hi>A Man is not a Stone, because he is a Living Creature</hi>; so then <hi>Living Creature</hi> is the Middle Term, and these three Terms being thus placed;
+<figure>
+                        <head>Middle Term.</head>
+                        <p>
+                           <hi>Living Creature.</hi>
+                        </p>
+                        <p>
+                           <hi>Minor Extream.</hi>
+                        </p>
+                        <p>
+                           <hi>Man.</hi>
+                        </p>
+                        <p>
+                           <hi>Major Extream.</hi>
+                        </p>
+                        <p>
+                           <hi>Stone.</hi>
+                        </p>
+                     </figure>
+                  </p>
                   <p>Because <hi>Celarent</hi> belongs to the first Fi<g ref="char:EOLhyphen"/>gure, the middle Term <hi>Living Creature</hi> must be the <hi>Subject</hi> in the <hi>Major Proposition,</hi> and the <hi>Predicate</hi> in the <hi>Minor</hi>; thus,
 <table>
                         <row>
